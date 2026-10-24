@@ -1,0 +1,11 @@
+# Local environment configs
+.env
+config.local.php
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
